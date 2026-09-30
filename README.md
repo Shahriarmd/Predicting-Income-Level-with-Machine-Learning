@@ -114,6 +114,17 @@ The goals of this project are to:
 
 ## Getting Started
 
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
+
+# Install dependencies
+pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
+
+# Open the notebook
+jupyter notebook
+```
 
 ## Team
 
